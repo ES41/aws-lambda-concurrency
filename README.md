@@ -23,6 +23,7 @@ Run in CLI :
 Python3 script.py
 ```
 Sample output (Sorted ) : 
+- Takes ~ 1.2sec/1 Function 
 ```
 +---------------------------------+-------------------+
 |           Lambda-name           | concurrency value |
